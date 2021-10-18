@@ -1,0 +1,13 @@
+.luz{
+    cursor: pointer
+}
+
+.conteudo{
+    width: 100%;
+    height: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2rem;
+}
